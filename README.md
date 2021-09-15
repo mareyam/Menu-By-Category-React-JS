@@ -1,4 +1,4 @@
-# Maryam-s-Restaurant
+# Maryam-s-Menu
 this project was created using ***create-react-app***
  
 ## npm start
@@ -8,7 +8,7 @@ Open http://localhost:3000 to view it in the browser.
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-## What is Maryam's Restauran 
+## What is Maryam's Menu
 
 Maryam's Restaurant is a multi page website coded using Bootstrap React CSS.
 The default page is Home Page 
